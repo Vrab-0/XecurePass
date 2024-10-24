@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url("img/flappy bird easy.gif"); /* Cambia 'fondo.jpg' por la ruta de tu imagen de fondo */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo semi-transparente */
+}
+
+.logo {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+.title {
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+
+.description {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    max-width: 600px;
+}
+
+.download-button {
+    padding: 15px 30px;
+    background-color: #9bacc4;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.2em;
+    transition: background-color 0.3s;
+}
+
+.download-button:hover {
+    background-color: #bbb381;
+}
+
