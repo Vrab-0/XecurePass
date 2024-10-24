@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-image: url("img/flappy_bird_easy.gif"); /* Cambia 'fondo.jpg' por la ruta de tu imagen de fondo */
+    background-image: url("img/flappy bird easy.gif"); /* Cambia 'fondo.jpg' por la ruta de tu imagen de fondo */
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -37,7 +37,7 @@ body {
 
 .download-button {
     padding: 15px 30px;
-    background-color: #9bacc4;
+    background-color: #82b541;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
