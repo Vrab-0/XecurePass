@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-image: url("flappy bird easy.gif"); /* Cambia 'fondo.jpg' por la ruta de tu imagen de fondo */
+    background-image: url("flappy_bird_easy.gif"); /* Cambia 'fondo.jpg' por la ruta de tu imagen de fondo */
     background-size: cover;
     background-position: center;
     color: #fff;
